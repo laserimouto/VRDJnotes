@@ -36,7 +36,7 @@ The actual model loaded inside VMC doesn't matter, as we only care about receivi
 4. Run Calibration
 
 ### Related Guides
-* [[Using Vive Controllers as Trackers in VMC]] - Read this if you plan on strapping Vive wands to your wrist / elsewhere
+* [Using Vive Controllers as Trackers in VMC](/Using Vive Controllers as Trackers in VMC.md) - Read this if you plan on strapping Vive wands to your wrist / elsewhere
 * [Converting an avatar to VRM format by Emilianavt](https://gist.github.com/emilianavt/51d8399987d67544fdebfe2ebd9a5149) 
 
 
@@ -48,7 +48,7 @@ EVMC4U receives OSC motion data (from VMC) and uses it to animate a VRM model in
 Lining up your model with your DJ controller inside a Unity scene can be fiddly, and I find that your avatar's postioning relative to the EVMC4U prefab can change in between runs. I suggest adding hotkeys to shift/rotate your avatar to help with alignment.
 
 ### Related Guides
-* [[EVMC4U]]
+* [EVMC4U](/EVMC4U.md)
 * [Converting an avatar to VRM format by Emilianavt](https://gist.github.com/emilianavt/51d8399987d67544fdebfe2ebd9a5149) 
 * How-to guide (English): https://github.com/gpsnmeajp/EasyVirtualMotionCaptureForUnity/wiki/How-to-use#how-to-use
 
@@ -72,7 +72,7 @@ Script to enable MIDI input in Unity (e.g. for Camera hotkeys)
 - https://github.com/keijiro/Minis
 
 #### Related Pages
-* [[Minis]]
+* [Minis](/Minis.md)
 
 ### EasyMotionRecorder
 Record motion data as a Unity animation. I haven't tested this yet, but it *may* let you record a separate pass if you want to have a dedicated run for in-world VJ/lighting.

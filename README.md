@@ -12,14 +12,14 @@ If you're brand new to VRDJing, I highly recommend DJ Sharpnel's [NARERU! Virtua
 
 ## Unity VRDJ
 Links for Unity-related guides:
-* [[Unity VRDJ Overview]]
-* [EasyVirtualMotionCaptureForUnity (EVMC4U)](EVMC4U)
+* [Unity VRDJ Overview](/Unity VRDJ Overview.md)
+* [EasyVirtualMotionCaptureForUnity (EVMC4U)](/EVMC4U.md)
 
 
 ## VRChat VRDJ
 Links for VRChat-related guides:
-* [[How To Setup Multiple Cameras In VRChat]]
-* [[Streaming Video for VRChat]]
+* [How To Setup Multiple Cameras In VRChat](/How To Setup Multiple Cameras In VRChat.md)
+* [Streaming Video for VRChat](/Streaming Video for VRChat.md)
 
 ### Useful External Resources
 * [VRCLibrary](https://vrclibrary.com/wiki/) - Wiki with useful information of VRChat world-building and avatar-creation
