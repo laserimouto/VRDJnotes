@@ -36,7 +36,7 @@ The actual model loaded inside VMC doesn't matter, as we only care about receivi
 4. Run Calibration
 
 ### Related Guides
-* [Using Vive Controllers as Trackers in VMC](/Using Vive Controllers as Trackers in VMC.md) - Read this if you plan on strapping Vive wands to your wrist / elsewhere
+* [Using Vive Controllers as Trackers in VMC](/UsingViveControllersAsTrackersInVMC.md) - Read this if you plan on strapping Vive wands to your wrist / elsewhere
 * [Converting an avatar to VRM format by Emilianavt](https://gist.github.com/emilianavt/51d8399987d67544fdebfe2ebd9a5149) 
 
 
