@@ -5,13 +5,13 @@ However, Vive wands expect to be held in your hands, so if you attach them to yo
 
 1. Open Settings
 2. Enable "Handle Controller as Tracker"
-![[vmc_controller_tracker_setup_1.png]]
+![Handle Controller as Tracker Settings](screenshots/vmc_controller_tracker_setup_1.png)
 
 3. Choose "Open tracker assignment settings"
-![[vmc_controller_tracker_setup_2.png]]
+![Tracker assignment settings](screenshots/vmc_controller_tracker_setup_2.png)
 
 4. Set the Left+Right hands to Tracker(Controller). You can move the controller to highlight the matching menu item green.
-![[vmc_controller_tracker_setup_3.png]]
+![Assigning Tracker settings](screenshots/vmc_controller_tracker_setup_3.png)
 
 5. Calibrate (switching modes will have messed up any previous calibration)
 

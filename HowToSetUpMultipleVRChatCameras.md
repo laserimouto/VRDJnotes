@@ -22,7 +22,7 @@ __TL;DR:__ Disable UI layers from Camera's CullingMask
 
 The CullingMask option on the Camera component controls what is rendered in the camera view.  Disabling the `Ui` and `UiMenu` layers will hide most of VRChat's menues from the Camera. `PlayerLocal` renders the player from their POV, we disable this to prevent double-rendering the player.
 
-![[vrchat_camera_cullingmask.png]]
+![Camera CullingMask setting](screenshots/vrchat_camera_cullingmask.png)
 
 If you have mirrors in your VRChat world, you should ensure they don't render the UI either, otherwise your cameras will see the UI reflected in the mirror.
 
